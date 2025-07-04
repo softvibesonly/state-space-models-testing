@@ -1,5 +1,5 @@
 # state-space-models-testing
-Me trying to build a state space model
+Trying to build a state space model
 
 This is a tiny sandbox sketch I made while trying to wrap my head around how attractor basins show up in state space models. It’s not a formal simulation—just a 3D surface plot using Plotly to help me visualize what it might feel like for a dynamical system to “fall into” a region of stability.
 
